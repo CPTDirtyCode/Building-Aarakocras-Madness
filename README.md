@@ -1,2 +1,7 @@
-# Building-Aarakocras-Madness
-How Cpt. Dirtycode accidentally built a game engine. Small Python projects, reusable systems and questionable pirate engineering.
+# Building Aarakocras Madness
+
+A collection of standalone Python projects extracted from the systems that power Aarakocras Madness.
+
+This repository documents the journey from simple helper functions to full game-engine concepts, presented as small, educational and reusable projects.
+
+Every chapter follows the adventures of Cpt. Dirtycode as he slowly turns pirate chaos into software.
